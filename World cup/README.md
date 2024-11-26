@@ -4,7 +4,7 @@
     Explore the excitement of the T20 World Cup 2022 journey. 
     Check out our home page to see the proud winners and navigate seamlessly through the tournament stats.
    
-![Worldcup-1](https://github.com/Hemant190894/PowerBI/World cup/Worldcup-1.png)
+![Worldcup-1](https://github.com/Hemant190894/PowerBI/World_cup/Worldcup-1.png)
 
 2) **Overall Summary (Team and Stadium Performance)** :
     Get a bird's-eye view of the T20 World Cup 2022 with comprehensive match counts, team performances, and stadium insights.
